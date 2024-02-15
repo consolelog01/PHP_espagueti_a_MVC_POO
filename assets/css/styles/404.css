@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(53 53 53);
+    color: #fff;
+    font-style: italic;
+}
+
+.content-error-server {
+    position: fixed!important;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
